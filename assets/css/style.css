@@ -220,7 +220,17 @@ input[type=submit] {
 
 /* 980px */
 @media screen and (max-width: 980px){
-  
+  #main-container{
+    padding: 20px;
+    padding-top: 130px;
+  }
+  .main-section{
+    width: 100%;
+    margin: 10px;
+  }
+  #logo{
+    margin-left: 30px;
+  }
 }
 
 /* 768px */
