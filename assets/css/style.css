@@ -216,4 +216,19 @@ input[type=submit] {
   border: 0 none;
 }
 
-@mediascreen 
+/* media query */
+
+/* 980px */
+@media screen and (max-width: 980px){
+  
+}
+
+/* 768px */
+@media screen and (max-width: 640px){
+
+}
+
+/* 640px */
+@media screen and (max-width: 640px){
+
+}
