@@ -234,8 +234,13 @@ input[type=submit] {
 }
 
 /* 768px */
-@media screen and (max-width: 640px){
+@media screen and (max-width: 768px){
+  #main-container{
 
+  }
+  #logo{
+    margin: 10px;
+  }
 }
 
 /* 640px */
