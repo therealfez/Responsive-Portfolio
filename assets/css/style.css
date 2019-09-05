@@ -236,14 +236,25 @@ input[type=submit] {
 /* 768px */
 @media screen and (max-width: 768px){
   #main-container{
-
+    padding: 10px;
+    padding-top: 115px;
+  }
+  .main-section{
+    width: 100%;
+    margin: 10px;
   }
   #logo{
-    margin: 10px;
+    margin-left: 20px;
   }
 }
 
 /* 640px */
 @media screen and (max-width: 640px){
-
+#logo{
+  width: 100%;
+  margin: 0;
+}
+nav{
+  
+}
 }
