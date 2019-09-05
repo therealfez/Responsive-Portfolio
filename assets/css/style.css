@@ -253,7 +253,11 @@ input[type=submit] {
 #logo{
   width: 100%;
   margin: 0;
+  text-align: center;
 }
 
-.nav
+nav{
+  float: none;
+  text-align: center;
+}
 }
